@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "functionalLinq5", "functionalLinq5\functionalLinq5.csproj", "{9FC648C6-F793-44D8-A1BB-4A001C57B12B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC648C6-F793-44D8-A1BB-4A001C57B12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC648C6-F793-44D8-A1BB-4A001C57B12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC648C6-F793-44D8-A1BB-4A001C57B12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC648C6-F793-44D8-A1BB-4A001C57B12B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {712B4CAE-ED97-47EB-906A-21A912B19628}
+	EndGlobalSection
+EndGlobal
